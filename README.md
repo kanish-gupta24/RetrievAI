@@ -185,3 +185,8 @@ FastAPI also exposes interactive API docs at `http://127.0.0.1:8000/docs`.
 - Re-processing documents **rebuilds the FAISS index from scratch**, the same behavior as the original Streamlit app.
 - Processing runs on every file currently in `uploads/`.
 - Scanned PDFs without a text layer will not yield extractable text.
+
+## live Demo 
+'''
+https://retrievai-1-064h.onrender.com/
+'''
